@@ -1,0 +1,11 @@
+{
+	"word_wrap": true,
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"always_show_minimap_viewport": true,
+	"enable_tab_scrolling": false,
+	"theme": "Adaptive.sublime-theme",
+	"show_full_path": false,
+}
